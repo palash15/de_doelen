@@ -1,0 +1,101 @@
+"name", "artist", "popularity", "genres", "danceability", "energy", "key","loudness", "mode", "speechiness", "acousticness", "instrumentalness","liveness", "valence", "tempo"
+On my way,Herra,35,[],0.817,0.636,6,-9.468,1,0.0876,0.0957,1.64e-06,0.146,0.686,105.953
+Blem Blem,Figo Gang,50,"['dutch hip hop', 'dutch urban']",0.785,0.458,8,-12.774,0,0.314,0.0921,0.000203,0.28,0.636,120.138
+Hoor Jij De Vogels Nog Fluiten,Christian Verwoerd,36,"['christelijk', 'world worship']",0.6,0.189,0,-14.614,1,0.0345,0.93,1.59e-06,0.109,0.152,120.095
+Nietdoen,Jerra24,42,[],0.733,0.388,2,-12.636,0,0.354,0.325,2.45e-05,0.104,0.249,160.012
+Badman,Chavanté,54,['dutch urban'],0.7,0.544,7,-7.965,1,0.157,0.0456,0.000252,0.0717,0.491,107.809
+Verboden,KM,53,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.541,0.614,9,-5.979,1,0.0773,0.114,0,0.0499,0.36,103.409
+Vlezig,Zoë-Jadha,44,"['dutch hip hop', 'dutch urban']",0.591,0.727,6,-5.895,1,0.214,0.12,0,0.15,0.763,179.863
+Wagwan,Nella,46,[],0.772,0.557,1,-11.394,1,0.205,0.424,0.00124,0.142,0.794,151.967
+Allang,Tur-G,49,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.663,0.536,11,-6.768,1,0.389,0.0747,0,0.0548,0.807,123.82
+Ready,Willa Icey,41,[],0.709,0.382,10,-15.847,0,0.388,0.00963,0,0.0925,0.43,149.853
+Bel Kees,JANAKA,38,[],0.725,0.39,2,-17.752,1,0.476,0.265,1.21e-06,0.0963,0.54,140.091
+Hey Hallo,Broederliefde,50,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.781,0.743,7,-6.008,0,0.0966,0.0196,0.000152,0.209,0.723,102.015
+Verlof,Qlas,52,"['dutch hip hop', 'dutch urban']",0.809,0.819,6,-6.04,1,0.258,0.275,0.0119,0.338,0.617,148.05
+Single (feat. CHO & Equalz),Architrackz,51,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.553,0.533,10,-7.596,0,0.216,0.264,0,0.129,0.712,134.147
+Gevoel,Dylisa,51,"['dutch pop', 'dutch urban']",0.616,0.565,8,-7.777,1,0.515,0.837,0,0.137,0.859,77.287
+Geen Tijd,Bandoo,45,[],0.821,0.456,2,-18.161,1,0.319,0.222,0,0.123,0.769,142.18
+Blessings,ValsBezig,57,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.764,0.705,7,-4.93,1,0.223,0.261,0,0.213,0.826,110.154
+Ik Zal Er Zijn,Sela,43,"['christelijk', 'world worship']",0.34,0.139,0,-11.623,1,0.0354,0.953,2.18e-06,0.116,0.242,113.432
+Kom Tot Me,Priceless,56,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.676,0.543,9,-6.5,1,0.0712,0.477,1.47e-05,0.332,0.845,170.104
+FOTO'S,Mael,47,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.606,0.485,2,-9.233,1,0.706,0.671,0,0.109,0.584,176.426
+They Don't Know,Blacka,55,[],0.712,0.566,5,-8.963,0,0.104,0.166,0.00161,0.119,0.567,149.959
+Naughty,SXTEEN,50,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.781,0.408,9,-11.114,1,0.457,0.0454,6.42e-05,0.0916,0.541,191.901
+We Zetten Herres,Bryan Mg,60,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.712,0.717,2,-4.992,0,0.393,0.253,7.56e-05,0.0997,0.723,195.906
+Spanning (feat. JayMoreLife),Young Ellens,62,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.85,0.577,1,-7.851,0,0.14,0.387,0,0.096,0.561,120.024
+Only One (feat. KM),Fmg,43,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.584,0.716,8,-6.297,1,0.0737,0.56,0,0.111,0.752,94.582
+Eenzaam En Alleen,Robert Pater,40,"['carnaval', 'levenslied']",0.769,0.906,10,-5.85,1,0.077,0.0913,0,0.0663,0.93,130.032
+Kogel,Aliyah,46,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.643,0.576,5,-4.673,0,0.0845,0.323,1.99e-05,0.183,0.46,169.983
+Ups & Downs,Roxy Rosa,52,['dutch urban'],0.52,0.669,7,-6.464,0,0.0967,0.516,0,0.106,0.469,84.864
+I Got You (feat. Bryan Mg),Zefanio,57,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.779,0.528,0,-4.513,1,0.0447,0.195,0.000251,0.281,0.643,95.007
+It's Over,Nafthaly Ramona,48,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.862,0.688,8,-5.926,0,0.0439,0.652,0.00445,0.173,0.962,100.015
+One Shot - feat. Architrackz,Hansie,54,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.638,0.757,6,-5.166,0,0.0816,0.287,0.000338,0.109,0.737,177.938
+By My Side,Blow,48,"['dutch hip hop', 'dutch urban']",0.682,0.606,8,-7.482,1,0.212,0.344,1.88e-05,0.117,0.448,93.888
+Seeka,Monsif,44,"['dutch pop', 'dutch urban']",0.804,0.57,7,-5.312,1,0.0875,0.0586,0.367,0.121,0.306,100.037
+Design,Kevcody,51,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.895,0.43,3,-6.4,0,0.143,0.126,0,0.0701,0.793,107.044
+Ik Wens Jou,Trinity (NL),42,"['christelijk', 'world worship']",0.608,0.504,7,-7.158,0,0.0365,0.293,0,0.105,0.702,93.95
+Only You,Frenna,64,"['dutch hip hop', 'dutch pop']",0.852,0.554,6,-5.224,1,0.202,0.0128,8e-05,0.0678,0.847,94.985
+Comfort Zone,Jonna Fraser,62,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.643,0.701,10,-5.074,0,0.271,0.0585,0,0.104,0.671,94.54
+Juppig,ChildsPlay,61,"['basshall', 'dutch hip hop', 'dutch pop', 'dutch urban']",0.887,0.664,7,-5.795,1,0.16,0.112,4.64e-06,0.116,0.421,101.015
+Fake Love,Delany,57,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.737,0.631,0,-6.976,1,0.0546,0.0334,0.64,0.139,0.666,100.006
+Niet Gelukkig,KNALLER,58,"['dutch drill', 'dutch hip hop', 'dutch trap']",0.766,0.607,5,-7.056,1,0.157,0.289,0.0072,0.136,0.419,156.029
+Boing Boing,Lauwtje,55,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.765,0.821,0,-4.256,1,0.383,0.157,0,0.0636,0.809,199.728
+De Prijs,Bollebof,47,"['dutch hip hop', 'dutch urban']",0.779,0.839,8,-5.249,1,0.359,0.124,0,0.101,0.567,99.816
+My Lady,Team Rush Hour,51,"['basshall', 'dutch hip hop', 'dutch pop', 'dutch urban', 'moombahton']",0.844,0.561,7,-5.822,0,0.118,0.188,3.64e-06,0.104,0.559,98.054
+Kloppen (feat. Kevcody),Mpes,48,"['dutch r&b', 'dutch urban']",0.86,0.533,2,-9.449,1,0.0961,0.0817,0.00883,0.101,0.545,97.005
+Baila,Jasha Rudge,52,"['dutch pop', 'dutch urban']",0.647,0.629,10,-6.06,1,0.0622,0.425,1.32e-06,0.16,0.566,180.047
+24/7 Remix,Rasskulz,60,"['dutch hip hop', 'dutch trap']",0.713,0.576,7,-6.226,1,0.381,0.0223,0.0139,0.365,0.598,202.076
+Jezus Overwinnaar,Mozaiek Worship,44,"['christelijk', 'world worship']",0.463,0.472,7,-8.505,1,0.0264,0.68,0.000648,0.0811,0.276,133.921
+Timer,Caza,44,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.604,0.801,8,-2.499,1,0.141,0.132,4.17e-06,0.121,0.708,194.006
+Amor,Djaga Djaga,55,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.702,0.764,9,-7.108,1,0.263,0.114,0.0168,0.0828,0.166,192.043
+Shopping Spree,Equalz,43,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.758,0.662,11,-5.128,0,0.132,0.0791,0,0.0887,0.551,102.329
+Bumperkleven,Freddy Moreira,48,"['basshall', 'dutch pop', 'dutch urban']",0.826,0.644,2,-6.058,1,0.0962,0.0253,0,0.678,0.409,100.0
+birthday,Idaly,53,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.758,0.672,9,-6.919,0,0.089,0.178,0,0.144,0.749,120.081
+Geen Controle,Jirraiya,41,['dutch urban'],0.563,0.677,4,-7.999,0,0.161,0.073,0,0.36,0.396,199.725
+Zeg Ja,Vic9,58,"['dutch hip hop', 'dutch trap', 'dutch urban']",0.879,0.531,8,-7.699,0,0.159,0.0741,1.12e-06,0.121,0.676,99.03
+Flashbacks (feat. Figogang),Ajay,46,"['dutch hip hop', 'dutch urban']",0.518,0.553,6,-6.697,1,0.191,0.304,4.87e-06,0.225,0.643,182.015
+Acrobatiek,Mensa,49,"['dutch drill', 'dutch hip hop', 'dutch urban']",0.712,0.781,1,-6.02,1,0.252,0.0245,2.4e-06,0.386,0.769,146.027
+Wine On Top,Chivv,55,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.897,0.748,8,-4.588,1,0.16,0.0663,0,0.0955,0.408,102.983
+Uno,Bokke8,55,"['dutch drill', 'dutch hip hop', 'dutch urban']",0.665,0.773,6,-4.455,0,0.283,0.651,4.17e-05,0.196,0.829,99.157
+In Die Life,JoeyAK,70,"['dutch hip hop', 'dutch urban']",0.834,0.615,8,-4.76,0,0.273,0.0134,0,0.0887,0.923,85.041
+De Toreador,Opgeblazen,61,['carnaval'],0.729,0.969,9,-3.32,0,0.0463,0.16,0,0.185,0.796,130.027
+"Meisje Je Weet (feat. Jayh, Zefanio & Makkie)",Diaz & Bruno,51,"['basshall', 'dutch pop', 'dutch urban']",0.783,0.687,4,-2.843,0,0.0508,0.0313,0,0.127,0.636,97.955
+Liefde Is Magie,Jeffrey Heesen,43,"['carnaval', 'levenslied']",0.438,0.887,0,-3.565,1,0.114,0.0855,0,0.0499,0.703,151.868
+Fuik,Henkie T,60,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.655,0.506,7,-8.401,0,0.331,0.0546,0,0.0881,0.598,97.367
+Mooier Dan Mooi,Wesley Klein,48,"['carnaval', 'dutch pop', 'levenslied']",0.781,0.862,8,-5.083,1,0.0458,0.106,1.63e-06,0.304,0.85,106.969
+Again & Again,Jayh,54,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.85,0.412,8,-9.417,0,0.466,0.748,0.00163,0.118,0.533,89.912
+Nog Ééntje Voor Ik Ga - Single Versie,John West,29,['carnaval'],0.572,0.892,11,-2.992,1,0.065,0.0841,0,0.0778,0.936,200.01
+ONE CHICA,Chip Charlez,54,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.751,0.73,1,-4.584,1,0.0565,0.231,0.000146,0.164,0.694,95.946
+I Like That,D-Double,48,"['dutch hip hop', 'dutch trap', 'dutch urban']",0.81,0.497,1,-8.028,1,0.183,0.206,2.01e-05,0.148,0.738,100.005
+Speling,DJ DYLVN,59,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.868,0.568,7,-4.434,0,0.0822,0.0267,0,0.0741,0.682,97.931
+1 KANS,CHO,49,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.794,0.595,7,-7.649,0,0.287,0.252,7.07e-06,0.11,0.479,102.035
+Zigeunerjongen (Cancion Del Mariachi),Rein Mercha,41,"['carnaval', 'levenslied']",0.781,0.825,4,-4.97,0,0.0719,0.132,5.92e-06,0.603,0.776,110.956
+100 Ballonnen,Jack,58,"['dutch hip hop', 'dutch urban']",0.731,0.736,11,-5.615,0,0.0784,0.0567,0.000108,0.0814,0.574,92.003
+Babyfever,Defano Holwijn,49,[],0.655,0.562,2,-9.276,0,0.331,0.674,0,0.111,0.55,93.955
+Alleen Wij (feat. Famke Louise),Numidia,57,"['dutch urban', 'rif']",0.705,0.84,3,-4.96,0,0.0546,0.104,0,0.13,0.887,93.983
+Kassa (feat. Numidia),ICE,54,"['dutch hip hop', 'dutch urban', 'rif']",0.888,0.584,6,-7.525,1,0.142,0.141,3.25e-06,0.0731,0.724,101.996
+Givenchy Bag - Remix,Ronnie Flex,60,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.579,0.551,4,-6.739,0,0.0717,0.0135,0,0.0795,0.281,126.941
+Caribbean,SBMG,42,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.695,0.704,9,-6.34,0,0.198,0.745,7.81e-06,0.16,0.833,89.15
+F Je EX,L CIANO,50,"['dutch hip hop', 'dutch urban']",0.843,0.597,1,-5.69,0,0.108,0.174,0,0.0833,0.909,105.017
+Meisje,LA$$A,58,"['dutch hip hop', 'dutch urban']",0.926,0.587,6,-6.137,0,0.241,0.0109,0.00108,0.0653,0.853,108.104
+Voor Elkaar,Ismo,57,"['dutch hip hop', 'dutch urban']",0.646,0.54,4,-6.029,0,0.373,0.406,0.00048,0.141,0.561,136.882
+Pull Over,DJ Wale,51,"['dutch hip hop', 'dutch urban']",0.772,0.714,11,-5.905,0,0.24,0.03,0,0.12,0.428,95.064
+Cose Della Vita,Samantha Steenwijk,45,"['dutch pop', 'levenslied']",0.678,0.729,6,-8.359,0,0.0343,0.0804,0.000483,0.484,0.615,95.006
+Zegekroon (764),Stichting Opwekking,41,"['christelijk', 'uwielbienie']",0.17,0.665,0,-8.67,1,0.0377,0.124,0,0.179,0.315,73.12
+24/7,Saffehbeats,61,['dutch urban'],0.785,0.605,6,-6.332,0,0.332,0.0363,0.0298,0.32,0.567,202.115
+"Headlock (feat. Yung Nnelg, Cho & Jayh)",SRNO,57,['dutch urban'],0.902,0.499,2,-6.366,1,0.204,0.108,0,0.104,0.565,103.041
+Damage,Dv,56,"['dutch drill', 'dutch hip hop']",0.859,0.373,1,-16.654,1,0.466,0.0789,0,0.264,0.685,158.981
+Middle,Sevn Alias,54,['dutch hip hop'],0.718,0.714,8,-6.748,0,0.188,0.095,0.00206,0.268,0.782,199.928
+Zegen,Jairzinho,61,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.767,0.741,7,-5.884,0,0.272,0.231,3.92e-06,0.136,0.451,105.049
+Mbappe,Lirical,58,[],0.873,0.491,1,-4.88,1,0.0694,0.00843,2.84e-06,0.0347,0.434,126.035
+Pa Olvidarte,Emma Heesters,75,"['channel pop', 'dutch pop']",0.718,0.86,11,-7.515,1,0.115,0.658,0,0.187,0.914,89.97
+Stay With Me,Yxng Le,48,['dutch urban'],0.75,0.543,0,-5.238,1,0.104,0.189,0,0.104,0.461,105.079
+Heter Dan Hel,Geechi,57,"['dutch hip hop', 'dutch urban']",0.537,0.847,10,-6.423,0,0.282,0.0203,0.00384,0.0968,0.217,146.984
+Het Spijt Me Niet,Tabitha,61,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.652,0.802,5,-6.318,1,0.256,0.05,0,0.1,0.835,166.01
+Proost op het leven,Tino Martin,51,['dutch pop'],0.59,0.847,1,-2.55,1,0.0327,0.0411,0,0.117,0.395,115.518
+Trots Op Jou,Wesly Bronkhorst,9,"['carnaval', 'levenslied']",0.546,0.704,6,-5.106,1,0.0258,0.18,0,0.116,0.37,90.002
+Type,Justice Toch,50,['dutch urban'],0.818,0.769,11,-4.355,0,0.0602,0.153,0.0157,0.0335,0.748,103.975
+Wat Doe Je Buiten,Shennumbanine,49,"['dutch drill', 'dutch hip hop']",0.912,0.843,4,-5.779,0,0.26,0.227,0,0.223,0.897,140.092
+Kostbaar,Yung Felix,45,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.63,0.61,9,-6.262,0,0.109,0.103,1.2e-05,0.0862,0.217,120.144
+Waarom,Bryce,53,[],0.637,0.637,1,-4.029,1,0.259,0.323,0,0.159,0.75,83.039
+Search & Destroy,Hyena,43,"['dutch drill', 'dutch hip hop', 'dutch urban']",0.854,0.676,3,-5.938,0,0.245,0.412,1.79e-06,0.101,0.501,143.999

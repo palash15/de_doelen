@@ -1,0 +1,101 @@
+"name", "artist", "popularity", "genres", "danceability", "energy", "key","loudness", "mode", "speechiness", "acousticness", "instrumentalness","liveness", "valence", "tempo"
+Ze Doen Ons Na,Figo Gang,53,"['dutch hip hop', 'dutch urban']",0.452,0.435,0,-12.687,1,0.354,0.215,1.02e-06,0.0799,0.602,95.547
+They Don't Know,Blacka,55,[],0.712,0.566,5,-8.963,0,0.104,0.166,0.00161,0.119,0.567,149.959
+"One, Two, Three",Broederliefde,55,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.48,0.659,2,-7.464,1,0.127,0.218,1.01e-05,0.184,0.372,91.155
+De Straten Zijn Koud,Qlas,56,"['dutch hip hop', 'dutch urban']",0.793,0.469,1,-11.122,1,0.28,0.238,0.000348,0.0988,0.275,142.056
+Search & Destroy,Hyena,43,"['dutch drill', 'dutch hip hop', 'dutch urban']",0.854,0.676,3,-5.938,0,0.245,0.412,1.79e-06,0.101,0.501,143.999
+Verboden,KM,53,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.541,0.614,9,-5.979,1,0.0773,0.114,0,0.0499,0.36,103.409
+Badman,Chavanté,54,['dutch urban'],0.7,0.544,7,-7.965,1,0.157,0.0456,0.000252,0.0717,0.491,107.809
+Gevoel,Dylisa,51,"['dutch pop', 'dutch urban']",0.616,0.565,8,-7.777,1,0.515,0.837,0,0.137,0.859,77.287
+In Die Life,JoeyAK,70,"['dutch hip hop', 'dutch urban']",0.834,0.615,8,-4.76,0,0.273,0.0134,0,0.0887,0.923,85.041
+Ik Mis Je,Architrackz,53,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.679,0.568,11,-7.564,0,0.106,0.4,3.59e-05,0.0732,0.712,188.066
+Uno,Bokke8,55,"['dutch drill', 'dutch hip hop', 'dutch urban']",0.665,0.773,6,-4.455,0,0.283,0.651,4.17e-05,0.196,0.829,99.157
+My Bébé,Bryan Mg,70,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.806,0.632,6,-4.408,0,0.0592,0.0945,0,0.0818,0.431,68.747
+DomDoen,Henkie T,65,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.806,0.69,3,-7.74,0,0.123,0.0939,0,0.0768,0.83,100.111
+Omhoog,Esko,64,"['dutch hip hop', 'dutch urban']",0.695,0.755,5,-6.268,0,0.242,0.0218,0,0.159,0.73,93.896
+Nacht Actief,Sevn Alias,58,['dutch hip hop'],0.839,0.764,9,-4.996,0,0.0935,0.0106,0.000878,0.24,0.537,140.059
+Only You,Frenna,64,"['dutch hip hop', 'dutch pop']",0.852,0.554,6,-5.224,1,0.202,0.0128,8e-05,0.0678,0.847,94.985
+Plankgas,Snelle,61,"['dutch hip hop', 'dutch pop']",0.54,0.604,1,-8.835,1,0.37,0.244,0,0.107,0.554,93.748
+Is Dit Over,Ronnie Flex,52,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.621,0.522,7,-8.232,1,0.0756,0.338,5.42e-06,0.122,0.331,97.385
+Wat Is Je Naam,Yxng Le,69,['dutch urban'],0.626,0.735,1,-7.13,1,0.0888,0.0203,0,0.162,0.763,199.799
+On It,Equalz,48,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.742,0.419,5,-7.416,0,0.127,0.257,0,0.102,0.709,98.102
+Dior Money,Jonna Fraser,63,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.836,0.737,11,-4.954,0,0.262,0.0598,0.00181,0.284,0.473,93.042
+Donker,Young Ellens,57,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.916,0.729,1,-5.618,1,0.286,0.283,1.3e-05,0.132,0.67,105.031
+Geen Rem,Mensa,50,"['dutch drill', 'dutch hip hop', 'dutch urban']",0.844,0.828,8,-6.636,1,0.0536,0.0893,4.73e-06,0.174,0.665,126.005
+Roller Coaster,Danny Vera,70,"['dutch americana', 'dutch indie', 'dutch pop', 'dutch rock', 'dutch singer-songwriter', 'nederpop']",0.4,0.383,9,-10.048,1,0.0279,0.51,0.00763,0.121,0.285,96.944
+Kilometers,Kevin,61,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.695,0.851,10,-3.986,0,0.163,0.0329,1.22e-06,0.246,0.466,170.054
+Ze Huilt Maar Ze Lacht,Maan,73,"['dutch pop', 'dutch rock']",0.56,0.36,8,-13.116,1,0.0336,0.853,9.92e-06,0.112,0.178,78.08
+Pa Olvidarte,Emma Heesters,75,"['channel pop', 'dutch pop']",0.718,0.86,11,-7.515,1,0.115,0.658,0,0.187,0.914,89.97
+Walou Crisis (feat. 3robi & Mula B),Dopebwoy,60,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.67,0.639,4,-7.238,0,0.164,0.218,0.000379,0.302,0.799,118.034
+BUK,ValsBezig,55,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.847,0.578,5,-5.49,0,0.272,0.0893,0,0.0485,0.828,102.073
+Ride or Die,Djaga Djaga,60,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.521,0.459,5,-14.136,0,0.361,0.44,6.48e-05,0.125,0.338,175.989
+Speling,DJ DYLVN,59,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.868,0.568,7,-4.434,0,0.0822,0.0267,0,0.0741,0.682,97.931
+Mbappe,Lirical,58,[],0.873,0.491,1,-4.88,1,0.0694,0.00843,2.84e-06,0.0347,0.434,126.035
+24/7,Saffehbeats,61,['dutch urban'],0.785,0.605,6,-6.332,0,0.332,0.0363,0.0298,0.32,0.567,202.115
+Tijdbom,Jack,55,"['dutch hip hop', 'dutch urban']",0.522,0.658,9,-7.658,1,0.138,0.315,0,0.229,0.417,119.933
+BON VIBES,Chip Charlez,63,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.727,0.698,1,-5.613,1,0.127,0.125,0,0.153,0.663,105.286
+FOTO'S,Mael,47,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.606,0.485,2,-9.233,1,0.706,0.671,0,0.109,0.584,176.426
+Waarom Zoeken Naar Liefde,Josylvio,62,"['dutch hip hop', 'dutch pop']",0.603,0.596,10,-5.953,0,0.163,0.364,1.41e-05,0.107,0.568,187.512
+Shutdown,SFB,57,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.89,0.519,0,-5.783,0,0.167,0.0694,2.01e-05,0.119,0.772,107.99
+Lippenstift,Marco Borsato,73,"['dutch cabaret', 'dutch pop', 'dutch rock']",0.711,0.613,5,-5.374,1,0.0535,0.0572,2.98e-06,0.203,0.703,95.017
+birthday,Idaly,53,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.758,0.672,9,-6.919,0,0.089,0.178,0,0.144,0.749,120.081
+Zegen,Jairzinho,61,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.767,0.741,7,-5.884,0,0.272,0.231,3.92e-06,0.136,0.451,105.049
+Je Kent ’t Wel,Chivv,57,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.865,0.915,7,-4.987,1,0.172,0.0215,0,0.11,0.729,120.032
+Ups & Downs,Roxy Rosa,52,['dutch urban'],0.52,0.669,7,-6.464,0,0.0967,0.516,0,0.106,0.469,84.864
+5713,Dv,56,"['dutch drill', 'dutch hip hop']",0.571,0.535,1,-14.018,1,0.545,0.209,0,0.15,0.612,82.538
+Waarom,Bryce,53,[],0.637,0.637,1,-4.029,1,0.259,0.323,0,0.159,0.75,83.039
+Papito,Mula B,60,"['dutch hip hop', 'dutch urban']",0.734,0.544,6,-10.052,0,0.447,0.0872,1.6e-06,0.3,0.35,187.97
+Duurt Te Lang,Davina Michelle,67,"['dutch pop', 'dutch rock']",0.638,0.444,7,-14.221,1,0.196,0.127,0,0.0905,0.151,173.707
+One By One,Aliyah,54,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.784,0.669,2,-4.771,0,0.0445,0.0247,0,0.132,0.372,96.025
+Pasapas,Kinderen Voor Kinderen,49,"[""children's choir""]",0.792,0.856,6,-5.147,1,0.0711,0.0558,0.00245,0.351,0.748,130.058
+GUAP (feat. Dopebwoy),Boef,64,['dutch hip hop'],0.704,0.716,5,-6.202,1,0.327,0.259,3.08e-06,0.0804,0.901,119.819
+Bustdown,DODO,57,['dutch hip hop'],0.806,0.804,1,-6.02,1,0.209,0.378,0,0.23,0.693,140.944
+Oceaan,Racoon,62,"['dutch indie', 'dutch pop', 'dutch rock']",0.468,0.335,9,-7.888,1,0.0405,0.86,0,0.11,0.239,125.881
+Pull Up,Dyna,53,"['dutch pop', 'dutch urban', 'surinamese pop']",0.937,0.725,1,-5.539,1,0.101,0.147,1.06e-06,0.145,0.939,119.998
+POSITIE,Caza,64,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.793,0.875,6,-6.872,1,0.124,0.0117,2.01e-06,0.0757,0.808,103.022
+Love Don’t Hate It,Duncan Laurence,68,['dutch pop'],0.561,0.564,7,-9.268,0,0.0548,0.154,0,0.114,0.473,83.965
+Alleen Wij (feat. Famke Louise),Numidia,57,"['dutch urban', 'rif']",0.705,0.84,3,-4.96,0,0.0546,0.104,0,0.13,0.887,93.983
+Blauwe Dag,Suzan & Freek,61,"['dutch pop', 'dutch rock']",0.704,0.571,11,-7.319,1,0.0463,0.245,0,0.299,0.494,98.007
+Me I Luv,Priceless,59,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.919,0.544,6,-4.244,0,0.0901,0.0128,0.0013,0.101,0.603,103.019
+Meisje,LA$$A,58,"['dutch hip hop', 'dutch urban']",0.926,0.587,6,-6.137,0,0.241,0.0109,0.00108,0.0653,0.853,108.104
+Zeg Ja,Vic9,58,"['dutch hip hop', 'dutch trap', 'dutch urban']",0.879,0.531,8,-7.699,0,0.159,0.0741,1.12e-06,0.121,0.676,99.03
+Non Verbaal,F1rstman,59,"['basshall', 'desi pop', 'dutch hip hop', 'dutch pop', 'dutch urban']",0.572,0.532,8,-8.668,1,0.366,0.55,0,0.415,0.698,133.339
+Tranen In De Studio,Philly Moré,59,"['dutch hip hop', 'dutch urban']",0.448,0.639,0,-7.578,1,0.179,0.476,0,0.178,0.358,168.738
+Sorry,Kensington,62,"['dutch indie rock', 'dutch pop', 'dutch rock']",0.461,0.409,4,-8.479,0,0.0315,0.502,0,0.0979,0.0895,133.956
+Niet Gelukkig,KNALLER,58,"['dutch drill', 'dutch hip hop', 'dutch trap']",0.766,0.607,5,-7.056,1,0.157,0.289,0.0072,0.136,0.419,156.029
+LIT,SBMG,56,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.913,0.772,7,-8.009,1,0.363,0.0166,0,0.251,0.681,100.076
+Zij weet het - Studio Versie,Tino Martin,66,['dutch pop'],0.691,0.55,2,-8.318,0,0.0272,0.15,0,0.461,0.338,94.996
+"Miljonair (feat. SBMG, Lil' Kleine, Boef & Ronnie Flex)",$hirak,60,['dutch hip hop'],0.704,0.658,7,-5.534,0,0.162,0.579,0,0.305,0.715,125.186
+Fake Love,Delany,57,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.737,0.631,0,-6.976,1,0.0546,0.0334,0.64,0.139,0.666,100.006
+Panamera,Ashafar,62,['dutch hip hop'],0.88,0.712,1,-6.168,1,0.161,0.0732,0.000184,0.0881,0.741,130.075
+Omlaag,Gio,55,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.772,0.925,10,-3.297,1,0.0442,0.0182,3.92e-05,0.286,0.742,105.226
+Back To You,Hannah Mae,60,['dutch pop'],0.588,0.5,11,-7.388,1,0.0256,0.746,0,0.11,0.323,95.964
+Boussa,Dystinct,65,"['belgian hip hop', 'dutch hip hop', 'dutch urban', 'moroccan pop']",0.615,0.466,5,-6.663,0,0.0873,0.0298,2.57e-05,0.0809,0.75,113.84
+Ik Probeer Het,Hef,58,['dutch hip hop'],0.884,0.617,0,-5.184,1,0.27,0.0536,1.07e-05,0.103,0.545,94.007
+3asses,Nass,56,['dutch hip hop'],0.822,0.799,9,-6.602,0,0.255,0.1,0,0.0685,0.774,170.092
+Talking Without Words,Alain Clark,55,"['dutch pop', 'dutch rock']",0.67,0.182,6,-14.082,1,0.0459,0.499,0.000578,0.1,0.27,128.805
+Moment,Kris Kross Amsterdam,66,"['dutch house', 'dutch pop', 'tropical house']",0.671,0.874,7,-4.865,0,0.0637,0.329,0,0.21,0.754,100.032
+Boing Boing,Lauwtje,55,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.765,0.821,0,-4.256,1,0.383,0.157,0,0.0636,0.809,199.728
+IJskoud,Nielson,65,"['dutch pop', 'dutch rock']",0.668,0.73,7,-6.573,1,0.0476,0.0434,0.0109,0.368,0.146,98.024
+Forever,Mell & Vintage Future,39,"['dutch pop', 'dutch r&b']",0.613,0.239,3,-10.939,1,0.0337,0.668,1.5e-06,0.1,0.291,143.965
+I Got You (feat. Bryan Mg),Zefanio,57,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.779,0.528,0,-4.513,1,0.0447,0.195,0.000251,0.281,0.643,95.007
+Tis Oke Mop,ChildsPlay,62,"['basshall', 'dutch hip hop', 'dutch pop', 'dutch urban']",0.877,0.732,8,-5.937,1,0.273,0.24,0,0.116,0.482,101.037
+Betasten,Team Rush Hour,59,"['basshall', 'dutch hip hop', 'dutch pop', 'dutch urban', 'moombahton']",0.836,0.72,6,-3.821,1,0.0742,0.339,0,0.114,0.726,104.979
+Went For A While,Ilse DeLange,42,"['dutch americana', 'dutch indie', 'dutch pop', 'dutch rock', 'nederpop']",0.566,0.249,2,-14.123,1,0.0297,0.85,0.172,0.112,0.306,146.705
+De Pijp,73,56,['dutch drill'],0.886,0.581,5,-7.65,0,0.366,0.585,0,0.098,0.582,148.1
+Nacht,Kraantje Pappie,67,"['dutch hip hop', 'dutch pop']",0.753,0.843,7,-3.434,1,0.329,0.339,0,0.11,0.339,138.005
+Amsterdam,KA,66,['dutch hip hop'],0.669,0.729,11,-5.42,0,0.349,0.416,0,0.0875,0.52,91.203
+Ai,Tabitha,64,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.837,0.726,0,-5.938,1,0.0516,0.241,0,0.0702,0.823,93.017
+Digits,Blow,55,"['dutch hip hop', 'dutch urban']",0.728,0.659,8,-5.641,0,0.299,0.0754,0.00397,0.0789,0.335,148.199
+Baby Momma,Yung Felix,56,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.876,0.707,0,-6.209,0,0.0637,0.0377,0.000149,0.118,0.375,100.028
+Khoya (feat. Lange),ICE,55,"['dutch hip hop', 'dutch urban', 'rif']",0.85,0.569,9,-9.64,0,0.129,0.229,0,0.173,0.6,105.031
+Dichterbij Je,Lil Kleine,62,"['dutch hip hop', 'dutch pop']",0.806,0.519,5,-9.175,0,0.117,0.0723,0,0.0722,0.591,100.075
+Kleine Jongen,Andre Hazes,61,"['dutch pop', 'dutch rock', 'levenslied', 'nederpop']",0.563,0.74,9,-4.755,1,0.0313,0.0244,0,0.112,0.503,91.206
+Parkeerplaats,Jermaine Niffer,55,"['dutch hip hop', 'dutch urban']",0.437,0.778,2,-8.109,1,0.639,0.489,0,0.331,0.612,78.324
+Treur Niet (Ode Aan Het Leven),Diggy Dex,60,"['dutch hip hop', 'dutch pop', 'dutch rock']",0.684,0.717,6,-8.561,0,0.0638,0.202,0,0.127,0.571,97.993
+Mamacita,Leafs,53,"['dutch hip hop', 'dutch urban']",0.671,0.515,10,-8.698,0,0.0894,0.051,0,0.0957,0.571,160.092
+Het Regent Zonnestralen,Acda en de Munnik,55,"['dutch cabaret', 'dutch indie', 'dutch pop', 'dutch rock']",0.624,0.628,7,-9.846,1,0.0303,0.434,0,0.179,0.783,108.102
+Walking On A Wire,Tim Dawn,55,['dutch pop'],0.49,0.699,8,-9.628,0,0.0329,0.265,8.76e-06,0.0725,0.419,101.001
+The Way You Take Time,Joe Buck,60,[],0.637,0.608,7,-7.665,1,0.0331,0.18,0,0.223,0.391,103.05
+Lekker He,Poke,56,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.805,0.714,1,-4.924,1,0.226,0.0421,3.79e-05,0.399,0.444,100.176
+I'm Not In Love - Edit,Monique Klemann,52,[],0.58,0.55,4,-11.48,1,0.03,0.553,0.303,0.377,0.465,137.993

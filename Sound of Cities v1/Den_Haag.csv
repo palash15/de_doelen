@@ -1,0 +1,101 @@
+"name", "artist", "popularity", "genres", "danceability", "energy", "key","loudness", "mode", "speechiness", "acousticness", "instrumentalness","liveness", "valence", "tempo"
+Bando,KNALLER,0,"['dutch drill', 'dutch hip hop', 'dutch trap']",0.561,0.929,0,-3.281,1,0.368,0.248,0.00358,0.177,0.807,87.652
+Ride,Son Mieux,29,"['dutch indie', 'dutch pop', 'dutch rock', 'folk-pop']",0.729,0.947,6,-3.972,0,0.0348,0.264,0.0119,0.327,0.961,129.946
+Den Haag,Mula B,38,"['dutch hip hop', 'dutch urban']",0.863,0.703,8,-5.649,1,0.179,0.00883,0,0.0985,0.48,144.987
+Leyla,Airr,23,[],0.752,0.826,7,-4.76,1,0.0474,0.52,0.000104,0.203,0.494,105.031
+Spijt,Chavanté,33,['dutch urban'],0.682,0.473,2,-10.106,0,0.0605,0.103,0.00578,0.0905,0.543,195.914
+Paramaribo,Figo Gang,37,"['dutch hip hop', 'dutch urban']",0.828,0.488,7,-11.744,0,0.0969,0.106,1.84e-05,0.0962,0.629,99.965
+Fly Zone,Ir Sais,24,"['basshall', 'dutch hip hop', 'dutch pop', 'dutch urban', 'ritmo kombina']",0.757,0.58,7,-6.058,0,0.154,0.232,0.000235,0.221,0.881,185.019
+Dit Is Nederland,Chris Hof,22,[],0.633,0.803,1,-6.253,1,0.0279,0.105,0.000118,0.0373,0.69,126.018
+"Chiba's (feat. Ali B, Lijpe & Ismo) - Instrumental",Glades,22,"['dutch hip hop', 'dutch urban', 'rif']",0.776,0.595,6,-6.335,0,0.0601,0.00085,0.834,0.302,0.165,100.018
+Ow,Kraantje Pappie,39,"['dutch hip hop', 'dutch pop']",0.644,0.667,6,-7.329,0,0.575,0.372,0,0.105,0.446,86.356
+Exploring the Blue,Luka Bloom,47,['irish singer-songwriter'],0.407,0.231,1,-16.323,1,0.0382,0.641,0.341,0.0983,0.113,119.071
+I Can't Make You Love Me - Acoustic Sessions,Jacqueline Govaert,43,"['dutch indie', 'dutch pop', 'dutch rock']",0.478,0.211,7,-8.659,0,0.043,0.844,0,0.149,0.305,133.073
+We Watched It All Come Down,Nina June,0,"['dutch pop', 'dutch singer-songwriter']",0.605,0.312,9,-13.43,0,0.0422,0.717,0.0122,0.101,0.0621,151.193
+Bijna,Eddy Zoëy,30,[],0.627,0.954,7,-4.087,1,0.112,0.0924,0,0.178,0.758,98.66
+So They Say,Rukhsana Merrise,17,['indie anthem-folk'],0.546,0.504,7,-10.677,1,0.0936,0.387,0.000223,0.0895,0.247,89.879
+Heethoofd,SFB,37,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.717,0.679,4,-6.464,0,0.0421,0.487,0,0.408,0.969,97.402
+Feels Like a River (feat. Michael McCrae),Kenn Colt,47,['belgian edm'],0.758,0.755,9,-3.01,1,0.0337,0.131,0,0.662,0.508,111.015
+You Might Need Somebody,Turley Richards,52,[],0.727,0.459,9,-8.465,0,0.0241,0.642,2.78e-06,0.247,0.883,82.249
+Days of Old,Bente,45,[],0.605,0.462,2,-6.504,1,0.0275,0.325,0.000563,0.09,0.429,73.003
+Settle,Jordan Smith,54,['idol'],0.563,0.211,5,-9.352,1,0.0334,0.817,0,0.128,0.283,91.955
+Niet Alleen,Lijpe x Ismo,34,['dutch hip hop'],0.659,0.596,6,-8.446,1,0.408,0.253,3.8e-06,0.151,0.465,93.285
+Only One,Fmg,20,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.612,0.715,8,-6.304,1,0.0772,0.568,0,0.106,0.753,94.767
+Sunday Smile,Jake Troth,63,[],0.686,0.654,11,-6.73,1,0.0472,0.541,0,0.111,0.395,124.647
+Princess,Sonny,56,"['indie anthem-folk', 'uk contemporary r&b']",0.532,0.586,11,-7.253,1,0.116,0.126,0,0.0882,0.383,171.983
+State I'm In,Brandyn Burnette,50,[],0.66,0.497,8,-8.446,1,0.113,0.324,0,0.0835,0.383,146.07
+Anywhere We Go - Stripped Down,Kaptan,49,"['hopebeat', 'indie poptimism']",0.562,0.403,9,-10.255,0,0.0258,0.466,2.78e-06,0.0747,0.284,145.014
+Walk Away,Frenna,0,"['dutch hip hop', 'dutch pop']",0.713,0.798,7,-5.564,0,0.061,0.263,1.11e-06,0.105,0.808,116.969
+Lovely Morning,Room Eleven,21,"['dutch indie', 'dutch pop', 'dutch rock']",0.592,0.178,5,-10.853,1,0.0292,0.938,5.16e-05,0.0997,0.264,72.9
+Gracefully,Vintage Trouble,16,"['funk', 'modern blues rock']",0.558,0.351,7,-7.549,1,0.0279,0.506,0,0.0959,0.369,79.404
+Some Places,Grapell,2,[],0.644,0.541,8,-10.14,0,0.0446,0.212,0.0997,0.0921,0.653,139.868
+Close To You,Michael Prins,57,"['dutch americana', 'dutch pop', 'dutch singer-songwriter']",0.511,0.0936,7,-13.798,1,0.0405,0.978,8.14e-05,0.0992,0.19,84.644
+Corners,Octave Lissner,42,[],0.737,0.459,2,-5.932,1,0.0257,0.671,0.00384,0.147,0.509,82.978
+Loneliness Has Eyes,The Milk,0,['retro soul'],0.628,0.47,6,-9.298,0,0.0511,0.73,0.00137,0.112,0.545,72.964
+Morning Light,SRNO,56,['dutch urban'],0.72,0.569,1,-7.614,0,0.0348,0.524,0.00401,0.323,0.591,110.03
+Make It on Your Own,Ed Struijlaart,58,['dutch singer-songwriter'],0.645,0.577,6,-8.512,1,0.0292,0.0361,0,0.111,0.509,86.996
+Lay Here,The Mulligan Brothers,54,['alabama indie'],0.696,0.5,7,-7.87,1,0.067,0.15,0,0.0846,0.358,129.658
+Melting Pot,Booker T. & the M.G.'s,0,"['classic soul', 'funk', 'instrumental funk', 'instrumental soul', 'memphis soul', 'soul', 'southern soul']",0.542,0.676,2,-12.126,1,0.0436,0.000666,0.53,0.0872,0.826,116.926
+Lights,Janne Schra,19,"['dutch indie', 'dutch pop', 'dutch rock']",0.642,0.478,7,-9.663,0,0.0275,0.51,2.62e-05,0.0756,0.792,146.089
+De Mist In,ValsBezig,34,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.737,0.5,7,-10.806,0,0.203,0.0194,0,0.109,0.458,126.418
+Till The Sun Comes Up,Jack and the Weatherman,57,['dutch pop'],0.727,0.798,6,-6.165,0,0.028,0.264,1.39e-06,0.37,0.291,121.989
+Stralend,Kenny B,34,"['bmore', 'dutch pop', 'surinamese pop']",0.671,0.64,0,-6.974,1,0.111,0.29,0,0.104,0.551,145.953
+Drukjes,RSG,35,['dutch urban'],0.499,0.571,4,-8.745,0,0.169,0.00938,0.0289,0.138,0.505,118.404
+Slow Dance With The Devil,Parson James,47,[],0.538,0.739,1,-5.978,1,0.0359,0.0299,0,0.114,0.414,78.997
+Aziz Kallah,Lijpe,32,['dutch hip hop'],0.901,0.656,9,-9.757,1,0.503,0.0726,0,0.0844,0.309,144.01
+Vrouw Van Me Leven,KhaliDenhaag,29,[],0.847,0.758,9,-5.075,0,0.36,0.42,0,0.109,0.857,99.969
+Bro Code,Djaga Djaga,38,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.767,0.802,7,-5.143,1,0.316,0.127,2.26e-06,0.186,0.682,115.155
+Blijf Bij Mij,Ruth Jacott,42,"['dutch pop', 'dutch rock', 'levenslied']",0.492,0.475,2,-11.714,1,0.0373,0.46,0,0.115,0.197,80.231
+Long Things (feat. KM & Jandro),Equalz,37,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.771,0.686,9,-6.298,1,0.253,0.185,0,0.0897,0.713,99.976
+W.F.,JOHAN,15,"['dutch indie', 'dutch rock']",0.642,0.78,2,-6.724,1,0.026,0.0162,6.17e-06,0.116,0.525,106.09
+Casanova,Jairzinho,9,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.703,0.427,0,-7.616,0,0.113,0.594,0,0.0573,0.602,131.547
+Teach Me How to Dance with You,Causes,37,['dutch pop'],0.687,0.441,11,-9.777,0,0.0268,0.409,5.57e-05,0.119,0.232,102.02
+Best Thing,Rabby Racks,27,"['dutch hip hop', 'dutch urban']",0.851,0.711,0,-3.901,0,0.144,0.0801,0,0.185,0.524,108.016
+Gekke Leven (feat. Lijpe),3robi,0,['dutch hip hop'],0.72,0.549,9,-8.688,0,0.302,0.135,2.88e-06,0.114,0.378,155.14
+Lipstick Sunset,John Hiatt,38,"['alternative country', 'classic rock', 'country rock', 'folk', 'folk rock', 'heartland rock', 'lilith', 'mellow gold', 'modern blues', 'pub rock', 'rock', 'roots rock', 'singer-songwriter', 'traditional folk']",0.567,0.302,2,-12.909,1,0.0279,0.409,0.00627,0.108,0.318,94.743
+Win Her,Ismo,41,"['dutch hip hop', 'dutch urban']",0.782,0.727,8,-5.905,0,0.25,0.0278,0,0.105,0.624,105.785
+Mademoiselle,Clandistino,0,"['dutch hip hop', 'dutch urban', 'moroccan pop', 'rif']",0.765,0.839,2,-7.796,1,0.164,0.606,2.54e-06,0.382,0.889,112.991
+Hold On,Kris Berry,56,['dutch pop'],0.708,0.36,4,-8.823,1,0.0333,0.384,0.00107,0.113,0.477,85.005
+Fortune Cookie,Emma Bale,53,['belgian pop'],0.63,0.474,5,-6.536,1,0.0541,0.414,0,0.278,0.362,95.024
+Oh Wat Een Leven,DJEZJA,46,"['dutch hip hop', 'dutch urban']",0.596,0.69,1,-6.976,0,0.286,0.021,0,0.145,0.296,77.87
+Eigenlijk,Broederliefde,0,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.484,0.647,0,-5.722,1,0.0865,0.147,0,0.0891,0.337,165.837
+Niemand Kan Om Ons Heen,3ofakind,25,"['basshall', 'dutch urban']",0.635,0.721,5,-3.387,0,0.0795,0.017,0.000157,0.242,0.734,174.895
+Wait For You,Ady Suleiman,0,"['indie r&b', 'indie soul', 'neo mellow', 'uk contemporary r&b']",0.61,0.823,1,-3.244,1,0.0317,0.0481,0,0.356,0.558,75.509
+Alright,Esko,24,"['dutch hip hop', 'dutch urban']",0.471,0.719,1,-6.102,1,0.0966,0.0642,0,0.271,0.36,68.26
+She Will Sing,Benjamin Francis Leftwich,23,"['acoustic pop', 'chamber pop', 'indie anthem-folk', 'indie folk', 'neo mellow', 'stomp and holler', 'york indie']",0.606,0.806,1,-7.638,1,0.0327,0.497,0.000365,0.115,0.413,130.006
+Whale - Radio Edit,Arsenal,0,"['belgian indie', 'belgian rock']",0.597,0.791,8,-5.933,1,0.0415,0.00319,0.0805,0.156,0.729,97.124
+Ze Kunnen Niets (feat. Mula B & 3robi),Chillouh,30,[],0.785,0.767,1,-4.098,1,0.0597,0.22,0,0.143,0.208,126.01
+One Time,Jonna Fraser,34,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.866,0.732,1,-5.622,0,0.0671,0.0558,0.000446,0.106,0.757,119.985
+Karima (feat. Clandistino & Soufiane Eddyani),Oualid,46,"['dutch hip hop', 'dutch urban', 'moroccan pop', 'rif']",0.805,0.625,11,-6.926,0,0.0654,0.104,0,0.0774,0.752,129.883
+Hate To Love,Racoon,15,"['dutch indie', 'dutch pop', 'dutch rock']",0.454,0.208,1,-12.127,1,0.0329,0.921,2.94e-06,0.105,0.392,175.656
+Veel Meer,Spanker,23,"['dutch hip hop', 'dutch urban']",0.734,0.76,2,-5.324,0,0.057,0.19,0.000409,0.115,0.132,108.058
+Barz,Rambo,0,"['dutch hip hop', 'thrash core']",0.832,0.879,2,-4.068,1,0.312,0.11,0,0.266,0.852,91.998
+Zonder Jou (feat. Jairzinho),Sevn Alias,38,['dutch hip hop'],0.804,0.763,4,-4.316,0,0.104,0.173,5.08e-05,0.0496,0.734,100.945
+Anekdote,Vic9,39,"['dutch hip hop', 'dutch trap', 'dutch urban']",0.43,0.69,6,-6.097,1,0.287,0.0131,0,0.176,0.383,182.648
+Can't Get Enough,Rico Greene,0,[],0.686,0.853,1,-5.058,0,0.0787,0.0516,0,0.167,0.68,96.006
+Ku Mi Dios,Rich Kalashh,40,"['dutch urban', 'ritmo kombina']",0.817,0.597,11,-8.403,0,0.372,0.0411,0,0.0943,0.486,154.976
+Recha's,Bartofso,0,"['dutch hip hop', 'dutch urban']",0.812,0.591,9,-5.67,1,0.0978,0.0877,4.09e-05,0.118,0.48,150.032
+Que Pasa,Riffi,33,"['dutch hip hop', 'rif']",0.689,0.723,9,-7.979,0,0.137,0.0743,1.11e-06,0.12,0.252,110.005
+Trendsetter (feat. Blow),Frsh,31,"['dutch hip hop', 'dutch urban']",0.667,0.63,8,-7.837,0,0.606,0.358,2.52e-05,0.12,0.515,131.281
+Wat Doe Jij,GLOWINTHEDARK,38,"['dutch hip hop', 'dutch house', 'dutch pop', 'dutch urban']",0.714,0.84,8,-5.11,1,0.06,0.0192,0,0.122,0.504,130.048
+Lovestains,Thomas Lundell,1,[],0.557,0.686,10,-6.827,1,0.0427,0.173,9.47e-06,0.388,0.518,160.059
+Bluf 9,Zack Ink,32,"['dutch hip hop', 'dutch trap', 'dutch urban']",0.843,0.673,10,-7.747,0,0.286,0.142,0.00123,0.0893,0.678,85.974
+Trust Nobody,Ajay,21,"['dutch hip hop', 'dutch urban']",0.876,0.563,1,-8.687,0,0.268,0.305,0,0.125,0.499,102.985
+Niet Als Ons,Amg Domina,4,['dutch hip hop'],0.81,0.825,7,-4.264,0,0.125,0.195,0,0.36,0.65,108.039
+Ik Zal Altijd Kijken,Shikss,0,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.487,0.644,0,-7.437,1,0.243,0.13,7.78e-06,0.0955,0.749,199.688
+Up We Go,Lights,48,"['canadian folk', 'canadian pop', 'electropop', 'indie poptimism']",0.657,0.384,4,-12.259,1,0.0422,0.882,0.00227,0.114,0.374,123.953
+Mi Kurason,Tabitha,47,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.791,0.552,0,-6.716,1,0.166,0.511,0.000466,0.0922,0.578,104.873
+This Way,Grey Reverend,31,[],0.591,0.248,11,-12.063,1,0.0483,0.162,0.204,0.1,0.181,132.361
+Day to Day for 6 Days a Week,L.A. Salami,45,['london indie'],0.593,0.357,11,-10.813,1,0.0693,0.875,0,0.112,0.352,111.689
+Start (feat. Rev),JoeyAK,27,"['dutch hip hop', 'dutch urban']",0.957,0.576,0,-8.605,1,0.359,0.322,0,0.157,0.367,125.086
+Vibing Girl (feat. Km & Frenna),Eves Laurent,43,"['dutch hip hop', 'dutch urban']",0.789,0.53,0,-8.016,0,0.259,0.164,0,0.171,0.89,94.119
+Favorite Song,Pete Philly,39,"['dutch hip hop', 'dutch r&b']",0.785,0.798,9,-6.5,0,0.0831,0.415,0.00607,0.39,0.372,112.998
+Hoofd Heet,Leafs,0,"['dutch hip hop', 'dutch urban']",0.664,0.571,10,-6.111,1,0.402,0.0278,0,0.0894,0.306,170.104
+Come Ova,F1rstman,25,"['basshall', 'desi pop', 'dutch hip hop', 'dutch pop', 'dutch urban']",0.672,0.868,10,-3.955,0,0.0806,0.265,0.000541,0.0922,0.642,102.071
+Ik Vind Je Lekker,De Kraaien,17,[],0.734,0.725,1,-7.311,1,0.0426,0.00426,0,0.274,0.795,130.018
+Gespend,Architrackz,29,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.823,0.656,1,-8.134,1,0.2,0.00175,0.00401,0.0922,0.932,117.864
+Save Me,Bilal Khan,27,[],0.776,0.4,10,-6.186,0,0.0262,0.888,0.000154,0.112,0.473,93.005
+Kinderen voor Kinderen Tune 37,Kinderen Voor Kinderen,25,"[""children's choir""]",0.497,0.753,0,-5.538,1,0.0513,0.0645,0.00158,0.158,0.266,194.011
+Ex (feat. Webb),LouiVos,33,"['dutch hip hop', 'dutch urban', 'ritmo kombina']",0.931,0.805,9,-5.73,0,0.206,0.111,0,0.0882,0.791,122.087
+Hou Me Vast (feat. T Sean),Magic&Beyond,36,['dutch urban'],0.759,0.58,7,-6.007,1,0.0578,0.048,0.00491,0.0923,0.799,88.078
+Mijn Baby - Zouk,Jayh,40,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.702,0.576,2,-6.048,1,0.0686,0.00859,1.09e-05,0.069,0.754,167.97

@@ -1,0 +1,101 @@
+"name", "artist", "popularity", "genres", "danceability", "energy", "key","loudness", "mode", "speechiness", "acousticness", "instrumentalness","liveness", "valence", "tempo"
+Creatief,Extationair,22,[],0.868,0.737,4,-6.482,0,0.183,0.135,0,0.3,0.628,103.025
+Lustrumdate,Bombarie,34,[],0.608,0.502,0,-7.337,1,0.238,0.403,0,0.112,0.458,100.174
+Ode Aan Dulcinea (feat. Siger Van Ramshorst),Don Quichot,34,[],0.519,0.391,4,-11.689,1,0.197,0.91,1.39e-05,0.134,0.606,85.426
+Raamuit,Dave Budha,47,"['dutch pop', 'dutch r&b']",0.689,0.425,8,-7.23,1,0.314,0.316,0,0.122,0.371,93.95
+Tante Lien,De Jeugd Van Tegenwoordig,41,"['dutch hip hop', 'dutch indie', 'dutch pop', 'dutch rock']",0.768,0.654,1,-4.516,1,0.187,0.324,0.00101,0.0749,0.697,160.082
+Witte Was,Goldband,42,[],0.831,0.74,7,-9.914,1,0.0525,0.0505,0.00236,0.0842,0.387,128.996
+Nieuwe Dag,Fresku,45,['dutch hip hop'],0.636,0.791,7,-4.703,1,0.0395,0.167,1.07e-05,0.134,0.277,90.082
+Living On Video - Original Radio Edit,Pakito,19,[],0.632,0.877,4,-6.116,0,0.0345,0.000193,0.776,0.256,0.559,131.012
+Sorry,S10,46,"['dutch hip hop', 'dutch pop']",0.772,0.669,0,-4.94,1,0.0613,0.026,0.000105,0.0545,0.656,91.961
+Barry Hayze,Donnie,51,['dutch hip hop'],0.865,0.649,8,-10.444,1,0.201,0.141,0.00181,0.0808,0.491,109.982
+Radiostilte,WIES,39,"['dutch indie', 'dutch pop']",0.737,0.564,4,-9.175,1,0.053,0.109,2.48e-05,0.0933,0.582,138.988
+Onze Schuilplaats Is God,Mozaiek Worship,40,"['christelijk', 'world worship']",0.423,0.623,5,-7.025,1,0.0311,0.25,1.36e-05,0.196,0.283,163.933
+Oranje Etiket,Gotu Jim,46,['dutch hip hop'],0.741,0.556,7,-6.904,0,0.113,0.427,0,0.104,0.71,79.043
+Hemel Valt,Typhoon,44,"['dutch hip hop', 'dutch indie', 'dutch pop', 'dutch rock']",0.664,0.736,5,-6.66,1,0.136,0.239,0,0.327,0.742,96.829
+De Leven,Sef,46,['dutch hip hop'],0.606,0.868,11,-7.838,1,0.171,0.114,0,0.37,0.723,93.059
+Hee Hoo (Beatcrooks Happy Høken Rmx),Boh Foi Toch,43,[],0.652,0.992,7,-3.597,1,0.105,0.0208,1.59e-05,0.265,0.493,169.964
+Als Zij Langsloopt,Flinke Namen,37,['dutch hip hop'],0.834,0.69,1,-4.648,1,0.225,0.109,0.000401,0.0287,0.732,94.973
+De ring die jij draagt,Wimmie Bouma,44,"['carnaval', 'levenslied']",0.507,0.685,8,-5.746,1,0.0339,0.458,0,0.0769,0.872,204.302
+Brommers Kieken,Jovink & the Voederbietels,41,"['dutch rock', 'streektaal']",0.43,0.854,2,-6.54,1,0.0617,0.00133,0,0.323,0.898,150.956
+Stof,Eefje de Visser,34,"['dutch indie', 'dutch pop', 'dutch rock']",0.594,0.321,8,-16.133,1,0.0309,0.397,0.539,0.382,0.0954,102.885
+SEMTEX,DJEZJA,47,"['dutch hip hop', 'dutch urban']",0.896,0.662,1,-5.899,1,0.257,0.0749,4.19e-05,0.286,0.178,118.023
+Woke,LU BACH,46,['dutch pop'],0.701,0.675,9,-4.699,1,0.0997,0.177,0,0.118,0.266,75.038
+De Gram,Steen,42,['dutch hip hop'],0.793,0.679,2,-4.651,1,0.261,0.44,1.13e-06,0.23,0.323,140.232
+Springstof,Demarrage,37,[],0.69,0.634,1,-6.256,0,0.0364,0.199,0,0.0627,0.655,138.041
+HoedenPlank,Opgezwolle,39,"['dutch hip hop', 'dutch rock']",0.476,0.69,1,-6.247,1,0.374,0.189,0,0.109,0.43,91.051
+By Melle,De Doelleazen,38,[],0.417,0.912,9,-4.878,1,0.0412,0.00646,1.84e-05,0.297,0.865,156.711
+Sterren Tellen,Diggy Dex,40,"['dutch hip hop', 'dutch pop', 'dutch rock']",0.575,0.518,0,-10.766,1,0.222,0.662,0,0.0992,0.375,86.33
+"Dom, Lomp & Famous",The Opposites,50,"['dutch hip hop', 'dutch pop', 'dutch rock']",0.71,0.738,1,-6.935,0,0.187,0.0546,3.92e-06,0.358,0.892,76.515
+Dingen die normaal zijn,Piet Junior,41,[],0.658,0.588,6,-9.694,1,0.587,0.0436,0,0.332,0.873,120.045
+Euro's,Kraantje Pappie,44,"['dutch hip hop', 'dutch pop']",0.637,0.895,2,-2.474,1,0.0952,0.00225,0,0.242,0.558,179.966
+Als Het Vuur Gedoofd Is,Acda en de Munnik,42,"['dutch cabaret', 'dutch indie', 'dutch pop', 'dutch rock']",0.558,0.635,2,-8.05,1,0.0259,0.494,0,0.135,0.611,92.029
+Lange Frans & Baas B Hitmedley,Lange Frans & Baas B,42,['dutch hip hop'],0.544,0.699,6,-7.977,0,0.179,0.485,0,0.141,0.535,113.896
+Bökkers: Annie Uut De Bochte (Beatcrooks Happy Høken Remix),Beatcrooks,48,"['carnaval', 'happy hardcore', 'streektaal']",0.529,0.939,9,-3.991,1,0.046,0.0135,0.000254,0.392,0.281,169.987
+Zwaar,Aniss,58,"['dutch drill', 'dutch hip hop']",0.865,0.587,10,-7.263,0,0.222,0.414,0,0.129,0.526,97.995
+Replay,Hef,47,['dutch hip hop'],0.438,0.635,6,-7.749,1,0.203,0.0315,6.31e-06,0.202,0.72,78.723
+Ik Wil Alleen Maar Zwemmen,Spinvis,43,"['dutch indie', 'dutch pop', 'dutch rock']",0.677,0.647,11,-8.849,1,0.0492,0.0936,0.0505,0.0713,0.839,115.007
+22 Baco,Lange Frans,43,"['dutch hip hop', 'dutch pop', 'dutch rock']",0.895,0.697,0,-7.336,1,0.157,0.0413,5.55e-06,0.0717,0.686,115.029
+Groter Dan Ik,Froukje,30,[],0.84,0.666,11,-5.879,0,0.218,0.0646,0,0.149,0.416,107.047
+Rodeo,Roosbeef,31,"['dutch indie', 'dutch rock']",0.641,0.666,9,-11.786,0,0.0482,0.762,0.863,0.158,0.429,116.01
+Het Is Al Laat Toch,Racoon,29,"['dutch indie', 'dutch pop', 'dutch rock']",0.575,0.369,9,-7.993,1,0.0296,0.848,0.000106,0.129,0.509,81.985
+Alles Wat Ik Wil,John West,54,['carnaval'],0.796,0.885,4,-3.185,0,0.212,0.207,0,0.32,0.788,102.008
+Lotgenoot,Winne,45,['dutch hip hop'],0.664,0.713,8,-7.751,1,0.18,0.00792,0,0.317,0.448,81.034
+Iederene Hef Een Reden,Bökkers,41,"['dutch rock', 'streektaal']",0.569,0.612,4,-8.532,1,0.036,0.558,0,0.104,0.685,108.495
+Bos Hout Voor De Deur - Bos Holt Veur De Deur,Rene Karst,44,"['carnaval', 'levenslied']",0.733,0.955,1,-1.284,0,0.1,0.0577,0,0.351,0.804,125.003
+Dan Maar Jij,MEROL,37,['dutch pop'],0.806,0.307,10,-7.368,1,0.113,0.41,0.000702,0.0894,0.709,158.067
+De Toreador (Crude Intentions Remix),Opgeblazen,47,['carnaval'],0.363,0.917,9,-5.577,0,0.103,0.0994,0,0.443,0.342,149.903
+Sorry - (Live in Tivoli),Kyteman,46,"['dutch indie', 'jazz rap']",0.352,0.473,7,-8.935,0,0.0379,0.943,0.398,0.656,0.201,67.865
+Huisje Op Wielen,Frank Van Etten,49,"['carnaval', 'levenslied']",0.731,0.928,11,-4.939,1,0.0945,0.0289,1.03e-05,0.312,0.798,120.016
+Het Land Van,Deetox,48,['rawstyle'],0.511,0.929,11,-1.999,0,0.116,0.306,5.49e-06,0.0963,0.374,150.124
+Miyek,ICE,54,"['dutch hip hop', 'dutch urban', 'rif']",0.719,0.566,9,-8.736,0,0.0898,0.592,0,0.148,0.526,119.933
+Cocaina,Outsiders,50,[],0.655,0.902,3,-3.661,0,0.057,0.456,0.00557,0.385,0.657,155.027
+Plafonddienst,EZG,42,['dutch hip hop'],0.704,0.673,1,-7.052,1,0.304,0.401,1.03e-05,0.158,0.358,129.089
+Naar Huis,Johnny Sellah,54,"['dutch hip hop', 'dutch trap']",0.483,0.626,5,-8.551,1,0.208,0.571,0,0.139,0.29,127.389
+Juppig,ChildsPlay,61,"['basshall', 'dutch hip hop', 'dutch pop', 'dutch urban']",0.887,0.664,7,-5.795,1,0.16,0.112,4.64e-06,0.116,0.421,101.015
+Beun De Beunhaas,Henk Wijngaard,41,"['carnaval', 'levenslied', 'nederpop']",0.706,0.662,9,-11.682,1,0.0325,0.467,0,0.324,0.854,114.084
+Regendruppels,Lijpe,51,['dutch hip hop'],0.661,0.625,9,-8.366,0,0.569,0.755,0,0.237,0.617,100.135
+Kan Gewoon,Manolo,53,['dutch hip hop'],0.774,0.457,7,-12.507,1,0.342,0.22,2.39e-05,0.416,0.583,96.023
+Zelfdefensie,Ares,57,['dutch hip hop'],0.824,0.452,8,-14.448,0,0.243,0.712,0,0.151,0.515,93.527
+Gotor,Waltzburg,40,['dutch indie'],0.613,0.553,9,-9.019,1,0.0323,0.45,0.0186,0.315,0.851,160.251
+Ik Vind Je Lekker,De Kraaien,43,[],0.733,0.729,1,-7.312,1,0.0427,0.00442,0,0.282,0.806,130.022
+Scribblin,Chef'Special,39,"['dutch indie', 'dutch pop', 'dutch rock', 'folk-pop']",0.721,0.639,1,-7.53,0,0.0882,0.29,0,0.254,0.818,97.868
+Dansplaat,Brainpower,50,"['dutch hip hop', 'dutch rock', 'old school nederhop']",0.941,0.624,9,-6.161,0,0.173,0.126,0,0.0682,0.77,120.101
+One Shot - feat. Architrackz,Hansie,54,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.638,0.757,6,-5.166,0,0.0816,0.287,0.000338,0.109,0.737,177.938
+Your Smile - Radio Edit,Charly Lownoise & Mental Theo,42,"['gabba', 'happy hardcore', 'hardcore techno']",0.536,0.979,8,-4.54,1,0.0881,0.341,6.07e-05,0.0835,0.22,172.968
+Eejeejo!,Darryl,45,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.604,0.745,1,-4.527,1,0.0937,0.116,0,0.164,0.962,81.882
+Eleonora,Jannes,45,"['carnaval', 'levenslied', 'nederpop']",0.65,0.743,7,-5.972,1,0.0376,0.385,4.62e-06,0.115,0.715,128.206
+Tijdmachine,Dio,51,['dutch hip hop'],0.831,0.812,8,-3.632,0,0.378,0.114,0,0.0901,0.64,97.961
+'T Rode Licht,Andre Hazes,40,"['dutch pop', 'dutch rock', 'levenslied', 'nederpop']",0.24,0.572,0,-4.564,1,0.0294,0.116,0,0.129,0.0626,149.483
+100 Ballonnen,Jack,58,"['dutch hip hop', 'dutch urban']",0.731,0.736,11,-5.615,0,0.0784,0.0567,0.000108,0.0814,0.574,92.003
+Hier,BLØF,39,"['dutch pop', 'dutch rock']",0.497,0.759,4,-7.68,1,0.0327,0.00278,0,0.138,0.584,163.887
+Damage,Dv,56,"['dutch drill', 'dutch hip hop']",0.859,0.373,1,-16.654,1,0.466,0.0789,0,0.264,0.685,158.981
+Marbella,LouiVos,58,"['dutch hip hop', 'dutch urban', 'ritmo kombina']",0.814,0.603,7,-7.548,0,0.0567,0.528,1.06e-05,0.109,0.445,97.013
+Meisjes Van De Nacht,Rob Ronalds,49,"['carnaval', 'levenslied']",0.722,0.935,8,-4.975,0,0.045,0.453,0,0.0607,0.842,125.026
+Heter Dan Hel,Geechi,57,"['dutch hip hop', 'dutch urban']",0.537,0.847,10,-6.423,0,0.282,0.0203,0.00384,0.0968,0.217,146.984
+On The Low,Momi,57,"['dutch hip hop', 'dutch urban']",0.505,0.531,1,-7.665,1,0.472,0.181,3.31e-05,0.126,0.223,177.766
+Dakterras,Swifty Official,46,[],0.825,0.891,9,-6.088,0,0.194,0.743,0,0.192,0.638,100.026
+10 (Alleen),Caza,50,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.627,0.625,0,-7.525,1,0.0668,0.0542,9.81e-06,0.258,0.676,94.017
+Milaan,Oneking,31,[],0.771,0.71,9,-6.307,0,0.0573,0.248,2.16e-06,0.115,0.623,103.013
+Bodem,Jalal Oba,46,"['dutch hip hop', 'dutch urban', 'moroccan pop', 'rif']",0.853,0.46,11,-10.556,0,0.143,0.555,6.7e-05,0.0995,0.236,97.014
+Geen Twijfel,Sander Kwarten,45,"['carnaval', 'levenslied']",0.725,0.937,8,-3.356,0,0.0805,0.273,0,0.492,0.85,107.978
+Koning van het Feest,Mental Theo,46,"['carnaval', 'happy hardcore']",0.664,0.765,10,-6.707,1,0.0699,0.0356,0,0.0485,0.38,160.024
+Kloppen (feat. Kevcody),Mpes,48,"['dutch r&b', 'dutch urban']",0.86,0.533,2,-9.449,1,0.0961,0.0817,0.00883,0.101,0.545,97.005
+Du hast die Haare schön,Bierstrassen Cowboys,11,['oktoberfest'],0.748,0.903,10,-6.745,1,0.0585,0.147,0,0.473,0.843,138.047
+Day One,Josylvio,60,"['dutch hip hop', 'dutch pop']",0.511,0.498,6,-9.209,0,0.157,0.0311,0,0.0921,0.245,127.855
+Voel Je Dan Niet?,Milan Milano,50,['carnaval'],0.711,0.774,0,-5.44,1,0.0415,0.155,0,0.135,0.618,98.049
+Stuk - Radio Edit,The Partysquad,37,"['dutch hip hop', 'dutch pop', 'moombahton']",0.921,0.828,2,-3.88,1,0.155,0.0222,0.00038,0.337,0.696,125.0
+Pa Olvidarte,Emma Heesters,75,"['channel pop', 'dutch pop']",0.718,0.86,11,-7.515,1,0.115,0.658,0,0.187,0.914,89.97
+Tapf Naar Tapf - Hoempa Mix,Immer Hansi,38,['carnaval'],0.867,0.834,11,-4.068,0,0.125,0.0375,2.29e-06,0.072,0.927,130.036
+Zij weet het - Studio Versie,Tino Martin,66,['dutch pop'],0.691,0.55,2,-8.318,0,0.0272,0.15,0,0.461,0.338,94.996
+Geen Probleem (feat. ICE),Ali B,51,"['dutch hip hop', 'dutch pop', 'dutch rock']",0.904,0.649,5,-4.022,0,0.278,0.316,0,0.153,0.803,139.999
+24/7 Remix,Rasskulz,60,"['dutch hip hop', 'dutch trap']",0.713,0.576,7,-6.226,1,0.381,0.0223,0.0139,0.365,0.598,202.076
+Canon,Zondag Met Lubach,52,[],0.57,0.574,4,-8.165,0,0.336,0.632,0,0.774,0.531,90.041
+Trap Freestyle Part 1 (Trap Van Vroeger),Mula B,62,"['dutch hip hop', 'dutch urban']",0.796,0.636,11,-7.618,1,0.305,0.0112,0,0.0907,0.479,91.844
+Sterling,Broederliefde,67,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.798,0.756,2,-7.864,1,0.0929,0.0816,0.622,0.607,0.799,107.986
+YEAH YEAH,Idaly,57,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.577,0.805,11,-6.217,1,0.4,0.09,0,0.123,0.277,79.096
+Seeka,Monsif,44,"['dutch pop', 'dutch urban']",0.804,0.57,7,-5.312,1,0.0875,0.0586,0.367,0.121,0.306,100.037
+M'n Favoriet,Raymon Hermans,54,['carnaval'],0.806,0.969,11,-3.922,0,0.138,0.188,0,0.317,0.774,131.979
+Nu Heb Ik Paper,Glades,62,"['dutch hip hop', 'dutch urban', 'rif']",0.824,0.818,9,-7.779,1,0.206,0.0128,0,0.0927,0.567,104.997
+Ik Heb Je Door,Tabitha,52,"['dutch hip hop', 'dutch pop', 'dutch urban']",0.801,0.741,7,-5.483,1,0.0819,0.0672,0,0.11,0.95,100.088
+Gangster Love,JoeyAK,61,"['dutch hip hop', 'dutch urban']",0.816,0.717,0,-4.833,1,0.26,0.00678,3.93e-06,0.317,0.563,179.964

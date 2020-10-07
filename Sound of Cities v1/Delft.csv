@@ -1,0 +1,101 @@
+"name", "artist", "popularity", "genres", "danceability", "energy", "key","loudness", "mode", "speechiness", "acousticness", "instrumentalness","liveness", "valence", "tempo"
+Money = Love,Goldband,30,[],0.897,0.747,9,-8.888,0,0.0462,0.00932,6.2e-05,0.095,0.715,120.058
+Waanzin (feat. Siger Van Ramshorst),Don Quichot,37,[],0.747,0.478,7,-11.102,1,0.0645,0.843,0,0.074,0.633,104.915
+Springstof,Demarrage,37,[],0.69,0.634,1,-6.256,0,0.0364,0.199,0,0.0627,0.655,138.041
+Star Wars,Mario Kartel,35,['dutch hip hop'],0.845,0.745,11,-7.339,1,0.255,0.117,0,0.403,0.796,100.08
+Stormvogel,Jungle By Night,39,"['dutch indie', 'dutch rock']",0.624,0.816,8,-6.643,1,0.0342,0.00608,0.89,0.0947,0.885,111.308
+Oranje Etiket,Gotu Jim,46,['dutch hip hop'],0.741,0.556,7,-6.904,0,0.113,0.427,0,0.104,0.71,79.043
+Een Echte,Faberyayo,38,"['dutch hip hop', 'dutch indie', 'dutch pop']",0.951,0.525,7,-7.548,1,0.047,0.155,4.2e-05,0.327,0.964,99.97
+Saône,Elliot Ziegler,39,"['background music', 'calming instrumental', 'focus']",0.426,0.187,5,-20.09,0,0.0445,0.992,0.848,0.105,0.324,113.248
+Wittewijnmuziek,De Jeugd Van Tegenwoordig,40,"['dutch hip hop', 'dutch indie', 'dutch pop', 'dutch rock']",0.691,0.593,1,-5.567,1,0.106,0.462,0,0.166,0.368,79.98
+Walkman,Kasso,40,[],0.794,0.587,11,-8.223,0,0.0478,0.0718,0.867,0.0272,0.891,112.895
+Dan Maar Jij,MEROL,37,['dutch pop'],0.806,0.307,10,-7.368,1,0.113,0.41,0.000702,0.0894,0.709,158.067
+Raamuit,Dave Budha,47,"['dutch pop', 'dutch r&b']",0.689,0.425,8,-7.23,1,0.314,0.316,0,0.122,0.371,93.95
+Witlof,Fresku,42,['dutch hip hop'],0.878,0.82,1,-3.848,1,0.07,0.000657,0.000306,0.0851,0.674,122.958
+Ik Wil Alleen Maar Zwemmen,Spinvis,43,"['dutch indie', 'dutch pop', 'dutch rock']",0.677,0.647,11,-8.849,1,0.0492,0.0936,0.0505,0.0713,0.839,115.007
+Surfen,Typhoon,46,"['dutch hip hop', 'dutch indie', 'dutch pop', 'dutch rock']",0.751,0.648,9,-7.003,0,0.105,0.0531,0.128,0.0936,0.724,95.963
+Try Again,Chef'Special,48,"['dutch indie', 'dutch pop', 'dutch rock', 'folk-pop']",0.611,0.746,1,-5.349,1,0.0816,0.0553,9.9e-05,0.0907,0.314,86.998
+Sorry - (Live in Tivoli),Kyteman,46,"['dutch indie', 'jazz rap']",0.352,0.473,7,-8.935,0,0.0379,0.943,0.398,0.656,0.201,67.865
+Woke,LU BACH,46,['dutch pop'],0.701,0.675,9,-4.699,1,0.0997,0.177,0,0.118,0.266,75.038
+Nothing - Single Edit,Son Mieux,42,"['dutch indie', 'dutch pop', 'dutch rock', 'folk-pop']",0.515,0.819,9,-5.272,1,0.0445,0.0427,1.92e-05,0.272,0.268,116.971
+Dakterras,Swifty Official,46,[],0.825,0.891,9,-6.088,0,0.194,0.743,0,0.192,0.638,100.026
+Electric,Go Back To The Zoo,42,"['dutch indie', 'dutch rock']",0.568,0.782,11,-4.556,1,0.0476,0.0677,1.15e-05,0.24,0.479,127.969
+Louise,Jett Rebel,43,"['dutch indie', 'dutch pop', 'dutch rock']",0.635,0.785,9,-5.883,1,0.0952,0.0111,0,0.0946,0.511,169.932
+Wereld Van Verschil (feat. Typhoon),BLØF,42,"['dutch pop', 'dutch rock']",0.632,0.665,4,-8.568,0,0.0297,0.349,2.15e-06,0.155,0.596,96.062
+Over Love,Mike Rogers,47,[],0.642,0.625,4,-4.908,0,0.027,0.107,0,0.162,0.216,107.959
+Pascià - Dub,V.I.C.A.R.I.,47,[],0.785,0.583,9,-11.59,1,0.121,0.00847,0.731,0.0716,0.945,124.007
+Girl (feat. Idaly),Yung Nnelg,53,['dutch hip hop'],0.837,0.558,5,-7.058,0,0.0521,0.123,0.000201,0.301,0.805,104.972
+De Leven,Sef,46,['dutch hip hop'],0.606,0.868,11,-7.838,1,0.171,0.114,0,0.37,0.723,93.059
+Zou Zo Graag,Jurk!,44,"['dutch cabaret', 'dutch pop', 'dutch rock']",0.68,0.687,9,-6.436,0,0.0471,0.465,0,0.0785,0.385,105.002
+Mystery Repeats,Pete Philly & Perquisite,43,['jazz rap'],0.813,0.683,5,-8.089,1,0.0784,0.121,0.0638,0.201,0.89,121.005
+Father & Friend,Alain Clark,49,"['dutch pop', 'dutch rock']",0.658,0.611,10,-8.906,1,0.0271,0.52,0,0.0631,0.632,97.907
+High On You,Jeangu Macrooy,48,"['dutch indie', 'dutch pop', 'dutch rock']",0.599,0.382,7,-8.259,1,0.041,0.596,1.46e-05,0.199,0.597,162.845
+Bring It On,Racoon,25,"['dutch indie', 'dutch pop', 'dutch rock']",0.516,0.719,3,-4.454,1,0.0255,0.109,0,0.101,0.363,140.036
+Lopen Tot De Zon Komt,Acda en de Munnik,49,"['dutch cabaret', 'dutch indie', 'dutch pop', 'dutch rock']",0.434,0.329,4,-9.075,1,0.0346,0.885,4.59e-06,0.144,0.361,99.504
+Evanescent,Max Swan,46,['focus'],0.501,0.0554,11,-21.322,0,0.0555,0.98,0.935,0.0801,0.0397,107.843
+Barry Hayze,Donnie,51,['dutch hip hop'],0.865,0.649,8,-10.444,1,0.201,0.141,0.00181,0.0808,0.491,109.982
+The Wall,Nona,37,"['dutch indie', 'dutch pop', 'dutch rock']",0.602,0.436,2,-10.133,1,0.0334,0.3,0.472,0.113,0.156,74.964
+Times Are Changing,DI-RECT,47,"['dutch indie', 'dutch pop', 'dutch rock']",0.501,0.81,6,-6.106,1,0.0407,0.0386,0.00145,0.147,0.285,122.968
+Make It Better (Acoustic Sessions),Handsome Poets,53,"['dutch indie', 'dutch indie rock', 'dutch rock']",0.762,0.467,6,-12.972,0,0.0422,0.619,0,0.102,0.274,129.921
+Shine - Acoustic,Douwe Bob,53,"['dutch americana', 'dutch indie', 'dutch pop', 'dutch rock']",0.555,0.662,5,-5.207,1,0.0293,0.754,9.35e-05,0.106,0.603,82.494
+Wait For You,Ady Suleiman,51,"['indie r&b', 'indie soul', 'neo mellow', 'uk contemporary r&b']",0.606,0.838,1,-2.792,1,0.0337,0.104,0,0.359,0.592,75.521
+Teach Me How to Dance with You,Causes,37,['dutch pop'],0.687,0.441,11,-9.777,0,0.0268,0.409,5.57e-05,0.119,0.232,102.02
+Come Back With Me Now,Krezip,57,"['dutch indie', 'dutch pop', 'dutch rock']",0.585,0.358,2,-9.761,1,0.032,0.653,0,0.108,0.267,76.922
+Better Than Me,Lily Moore,54,"['indie anthem-folk', 'uk contemporary r&b', 'uk pop']",0.596,0.576,9,-8.092,0,0.0593,0.555,2.86e-05,0.15,0.501,167.953
+Tangled Up In You,Judy Blank,35,"['dutch americana', 'dutch indie', 'dutch pop', 'dutch singer-songwriter']",0.531,0.15,10,-9.235,1,0.0349,0.921,0,0.105,0.492,83.838
+Lovely Morning,Room Eleven,55,"['dutch indie', 'dutch pop', 'dutch rock']",0.571,0.176,5,-10.803,1,0.029,0.931,3.4e-05,0.0997,0.235,145.577
+All Things Under The Sun,Wulf,26,"['dutch pop', 'dutch rock']",0.639,0.74,2,-7.035,1,0.0314,0.185,0.000132,0.183,0.783,128.096
+Mondjekontje,Willie Wartaal,40,['dutch hip hop'],0.759,0.63,10,-8.154,0,0.28,0.0205,0.00404,0.333,0.526,161.939
+Crazy (feat. Gelbuda),FDVM,48,"['deep tropical house', 'new french touch', 'tropical house']",0.803,0.554,0,-8.715,1,0.0527,0.203,0.000106,0.834,0.763,105.024
+Belgie ... (Is Er Leven Op Pluto ...),Het Goede Doel,52,"['dutch pop', 'dutch rock', 'nederpop']",0.584,0.662,0,-13.559,0,0.0412,0.0114,0.000413,0.0741,0.658,140.926
+Till The Sun Comes Up,Jack and the Weatherman,57,['dutch pop'],0.727,0.798,6,-6.165,0,0.028,0.264,1.39e-06,0.37,0.291,121.989
+Old Records - Acoustic,Jacqueline Govaert,54,"['dutch indie', 'dutch pop', 'dutch rock']",0.453,0.457,11,-7.153,1,0.0288,0.762,4.86e-05,0.099,0.426,200.226
+Zij Maakt Het Verschil,De Poema's,54,"['dutch pop', 'dutch rock']",0.337,0.552,11,-7.9,0,0.0438,0.332,0,0.119,0.361,172.823
+Naturally,RONDÉ,45,"['dutch indie', 'dutch pop', 'dutch rock']",0.588,0.774,1,-6.163,1,0.0285,0.117,1.47e-06,0.373,0.391,125.996
+Girl,Anouk,56,"['dutch indie', 'dutch pop', 'dutch rock', 'nederpop']",0.672,0.803,4,-4.693,1,0.0285,0.00753,0,0.0597,0.794,136.007
+Lights,Janne Schra,54,"['dutch indie', 'dutch pop', 'dutch rock']",0.642,0.478,7,-9.663,0,0.0275,0.51,2.62e-05,0.0756,0.792,146.089
+Princess,Sonny,56,"['indie anthem-folk', 'uk contemporary r&b']",0.532,0.586,11,-7.253,1,0.116,0.126,0,0.0882,0.383,171.983
+What Am I Gonna Do With You,Sophia Messa,54,['nyc pop'],0.771,0.837,5,-4.508,0,0.112,0.209,1.84e-06,0.0917,0.775,115.017
+Belle Hélène,Doe Maar,48,"['dutch cabaret', 'dutch indie', 'dutch pop', 'dutch rock', 'nederpop']",0.737,0.555,2,-10.423,0,0.0376,0.112,0.00023,0.0755,0.976,137.912
+War,Kensington,58,"['dutch indie rock', 'dutch pop', 'dutch rock']",0.641,0.806,8,-6.281,1,0.0323,0.079,0.00158,0.0708,0.721,125.987
+Let It Flow,Lotte Walda,54,['dutch singer-songwriter'],0.49,0.431,1,-12.216,0,0.118,0.158,4.6e-05,0.108,0.648,73.602
+Walking On A Wire,Tim Dawn,55,['dutch pop'],0.49,0.699,8,-9.628,0,0.0329,0.265,8.76e-06,0.0725,0.419,101.001
+We Watched It All Come Down,Nina June,56,"['dutch pop', 'dutch singer-songwriter']",0.605,0.312,9,-13.43,0,0.0422,0.717,0.0122,0.101,0.0621,151.193
+Make It on Your Own,Ed Struijlaart,58,['dutch singer-songwriter'],0.645,0.577,6,-8.512,1,0.0292,0.0361,0,0.111,0.509,86.996
+Over De Muur,Klein Orkest,54,"['dutch indie', 'dutch pop', 'dutch rock', 'nederpop']",0.612,0.321,0,-15.231,1,0.0506,0.629,1.05e-05,0.144,0.287,95.977
+So They Say,Rukhsana Merrise,51,['indie anthem-folk'],0.413,0.499,7,-10.706,1,0.106,0.357,0.000254,0.0975,0.264,88.748
+Back To You,Hannah Mae,60,['dutch pop'],0.588,0.5,11,-7.388,1,0.0256,0.746,0,0.11,0.323,95.964
+Holiday In Spain,Counting Crows,55,"['alternative rock', 'neo mellow', 'pop rock', 'post-grunge', 'rock', 'singer-songwriter']",0.645,0.32,2,-11.163,1,0.0313,0.664,0,0.132,0.277,125.649
+Slapeloze Nachten,The Opposites,56,"['dutch hip hop', 'dutch pop', 'dutch rock']",0.808,0.645,8,-6.928,1,0.0572,0.353,0.000931,0.152,0.81,111.962
+Cruel Heart,Novastar,55,"['belgian rock', 'dutch indie', 'dutch pop', 'dutch rock']",0.532,0.359,0,-8.698,1,0.0266,0.553,8.88e-05,0.101,0.187,108.159
+Close To You,Michael Prins,57,"['dutch americana', 'dutch pop', 'dutch singer-songwriter']",0.511,0.0936,7,-13.798,1,0.0405,0.978,8.14e-05,0.0992,0.19,84.644
+1 Affoe X 2,Yung Internet,45,['dutch hip hop'],0.958,0.479,10,-9.134,0,0.272,0.167,5.59e-05,0.326,0.688,128.984
+De Zon Op,Diggy Dex,49,"['dutch hip hop', 'dutch pop', 'dutch rock']",0.679,0.54,6,-9.4,0,0.0514,0.556,0.000227,0.0963,0.553,100.05
+"You, Me & the Sea",Angela Moyra,53,['dutch singer-songwriter'],0.592,0.565,0,-5.106,1,0.0463,0.268,8.65e-06,0.129,0.533,167.021
+House Upon The Hill,Miss Montreal,39,"['dutch pop', 'dutch rock']",0.589,0.287,0,-16.038,1,0.0372,0.843,1.58e-06,0.125,0.661,166.143
+Morning Light,SRNO,56,['dutch urban'],0.72,0.569,1,-7.614,0,0.0348,0.524,0.00401,0.323,0.591,110.03
+A Storm On A Summers Day (Acoustic),Full Crate,50,"['dutch pop', 'dutch r&b', 'indie r&b']",0.642,0.131,4,-11.405,0,0.0593,0.928,0,0.0859,0.115,113.858
+Tijdmachine,Dio,51,['dutch hip hop'],0.831,0.812,8,-3.632,0,0.378,0.114,0,0.0901,0.64,97.961
+Forever,Mell & Vintage Future,39,"['dutch pop', 'dutch r&b']",0.613,0.239,3,-10.939,1,0.0337,0.668,1.5e-06,0.1,0.291,143.965
+So Incredible,Ilse DeLange,54,"['dutch americana', 'dutch indie', 'dutch pop', 'dutch rock', 'nederpop']",0.537,0.857,0,-5.791,1,0.0257,0.114,0,0.724,0.747,103.989
+You Might Need Somebody,Turley Richards,52,[],0.727,0.459,9,-8.465,0,0.0241,0.642,2.78e-06,0.247,0.883,82.249
+Mind Games - Single Version,HAEVN,52,"['dutch pop', 'dutch rock']",0.695,0.621,5,-8.847,0,0.0378,0.487,8.97e-05,0.186,0.779,101.505
+Settle,Jordan Smith,54,['idol'],0.563,0.211,5,-9.352,1,0.0334,0.817,0,0.128,0.283,91.955
+Telescope,Lukas Batteau,29,['dutch singer-songwriter'],0.502,0.376,10,-12.975,1,0.0312,0.684,0.00209,0.143,0.431,86.056
+Le rêve d'une note,RIOPY,46,['neo-classical'],0.511,0.322,6,-17.234,0,0.0369,0.983,0.92,0.0856,0.274,140.069
+Liefde In De Lucht,Kraantje Pappie,53,"['dutch hip hop', 'dutch pop']",0.743,0.695,2,-6.53,1,0.162,0.147,0,0.105,0.844,81.025
+Feels Like a River (feat. Michael McCrae),Kenn Colt,47,['belgian edm'],0.758,0.755,9,-3.01,1,0.0337,0.131,0,0.662,0.508,111.015
+Ravijn,Veldhuis & Kemper,9,"['dutch cabaret', 'dutch pop', 'dutch rock']",0.614,0.638,8,-7.218,1,0.0366,0.157,2.95e-06,0.143,0.682,94.943
+Parijs,Kenny B,57,"['bmore', 'dutch pop', 'surinamese pop']",0.668,0.662,9,-7.065,1,0.0914,0.194,0,0.383,0.437,93.867
+Canon,Zondag Met Lubach,52,[],0.57,0.574,4,-8.165,0,0.336,0.632,0,0.774,0.531,90.041
+Amy's Song,Matt Simons,54,"['dutch pop', 'neo mellow', 'neo-singer-songwriter', 'pop', 'tropical house']",0.344,0.198,2,-10.985,1,0.0471,0.977,1.27e-06,0.112,0.0675,169.557
+Anywhere We Go - Stripped Down,Kaptan,49,"['hopebeat', 'indie poptimism']",0.562,0.403,9,-10.255,0,0.0258,0.466,2.78e-06,0.0747,0.284,145.014
+All That You Are,David Benjamin,49,"['dutch pop', 'dutch singer-songwriter']",0.539,0.397,3,-13.665,1,0.0459,0.737,2.7e-05,0.113,0.787,109.017
+Blue Boy,Rosemary & Garlic,33,"['chamber pop', 'indie folk']",0.206,0.257,0,-14.803,0,0.0832,0.952,0.453,0.219,0.195,72.53
+Radiostilte,WIES,39,"['dutch indie', 'dutch pop']",0.737,0.564,4,-9.175,1,0.053,0.109,2.48e-05,0.0933,0.582,138.988
+Corners,Octave Lissner,42,[],0.737,0.459,2,-5.932,1,0.0257,0.671,0.00384,0.147,0.509,82.978
+I'm Not In Love - Edit,Monique Klemann,52,[],0.58,0.55,4,-11.48,1,0.03,0.553,0.303,0.377,0.465,137.993
+You Don't See Me,Joe Buck,45,[],0.603,0.69,11,-7.415,0,0.0303,0.0112,0,0.117,0.709,129.006
+Als Ze Er Niet Is,De Dijk,47,"['dutch indie', 'dutch pop', 'dutch rock', 'nederpop']",0.378,0.453,0,-13.062,1,0.0751,0.233,0.000462,0.13,0.196,166.048
+Wolken,Flinke Namen,50,['dutch hip hop'],0.734,0.463,8,-11.886,1,0.0675,0.185,0.548,0.0864,0.167,94.98
+Nocturnal Waltz,Johannes Bornlöf,52,['focus'],0.185,0.112,1,-18.943,0,0.0366,0.99,0.915,0.107,0.0697,166.449
